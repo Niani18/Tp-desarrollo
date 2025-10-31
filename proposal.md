@@ -37,7 +37,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |5. CRUD Precio<br>6.|
+|CRUD |5. CRUD Precio<br>|
 |CUU/Epic|3. Registrar pago<br>4. Cancelar turno|
 
 
